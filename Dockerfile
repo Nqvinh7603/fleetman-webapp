@@ -1,6 +1,6 @@
 FROM tomcat:8.5.47-jdk8-openjdk
 
-MAINTAINER Richard Chesterwood "contact@virtualpairprogrammers.com"
+MAINTAINER Quang Vinh "nqvinh7603@gmail.com"
 
 EXPOSE 8080
 
