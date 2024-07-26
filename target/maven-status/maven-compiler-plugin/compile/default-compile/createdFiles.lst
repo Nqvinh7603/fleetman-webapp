@@ -1,0 +1,14 @@
+com/nqvinh/TomcatWARApplication.class
+com/nqvinh/FleetmanApplication.class
+com/nqvinh/Startup$LocalDevelopmentVersion.class
+com/nqvinh/controllers/Position.class
+com/nqvinh/Startup.class
+com/nqvinh/Startup$ProductionVersion.class
+com/nqvinh/services/RemotePositionMicroserviceCalls.class
+com/nqvinh/services/RemoteMicroserviceStubImpl.class
+com/nqvinh/controllers/VehicleController.class
+com/nqvinh/data/VehicleRepository.class
+com/nqvinh/CloudConfiguration.class
+com/nqvinh/WebSocketConfig.class
+com/nqvinh/services/PositionTrackingExternalService.class
+com/nqvinh/domain/Vehicle.class
