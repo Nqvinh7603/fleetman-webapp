@@ -2,12 +2,10 @@ FROM tomcat:8.5.47-jdk8-openjdk
 
 MAINTAINER Quang Vinh "nqvinh7603@gmail.com"
 
-RUN rm -rf /usr/local/tomcat/webapps/*
+WORKDIR /usr/local/bin/
 
-COPY ./target/fleetman-0.0.1-SNAPSHOT.war /usr/local/tomcat/webapps/ROOT.war
-
-ENV JAVA_OPTS="-Dspring.profiles.active=docker-demo"
+COPY ./target/fleetman-0.0.1-SNAPSHOT.jar webapp.jar
 
 EXPOSE 8080
 
-CMD ["catalina.sh", "run"]
+CMD ["java", "-Dspring.profiles.active=docker-demo", "-jar", "webapp.jar"]
