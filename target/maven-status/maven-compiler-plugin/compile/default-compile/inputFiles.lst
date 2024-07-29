@@ -1,6 +1,6 @@
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/FleetmanApplication.java
-/home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/services/PositionTrackingExternalService.java
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/WebSocketConfig.java
+/home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/services/PositionTrackingExternalService.java
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/controllers/Position.java
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/TomcatWARApplication.java
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/controllers/VehicleController.java
@@ -8,5 +8,5 @@
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/Startup.java
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/services/RemoteMicroserviceStubImpl.java
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/domain/Vehicle.java
-/home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/services/RemotePositionMicroserviceCalls.java
 /home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/CloudConfiguration.java
+/home/vinh/Desktop/fleetman-webapp/src/main/java/com/nqvinh/services/RemotePositionMicroserviceCalls.java
